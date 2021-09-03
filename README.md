@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JuliaMayer123
-- 👀 I’m interested in AI, Smart Cities, Visualization.
+- 👋 Hi, I’m Julia.
+- 👀 I’m interested in AI, Smart Cities, Visualization, algrebraic geometry.
 - 🌱 I’m currently learning Data Mining, Git; improving python and R.
 - 💞️ I’m looking to collaborate on all of that.
 - 📫 How to reach me: julia.mayer@dfki.de
